@@ -1,3 +1,6 @@
+
+//npm install -S react@16.7.0-alpha.2 react-dom@16.7.0-alpha.2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
